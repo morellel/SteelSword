@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sword",
+  "name": "BlondeNightmare's Custom Sword",
+  "description": "My first mod. This is a sword that I, for whatever reason, think is awesome. If you agree, great! Test it out.",
+  "version": "1.0",
+  "mcversion": "12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BlondeNightmare"],
+  "credits": "thanks to codakid.com for the instructions on how to do it",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
